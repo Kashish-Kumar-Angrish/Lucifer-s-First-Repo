@@ -1,7 +1,6 @@
-# Lucifer-s-First-Repo
-First Repo
-hello
+# My-First-Repo
+Hello Everyone!
 <br>
-my Name is Kashish Kumar Angrish
+My Name is Kashish Kumar Angrish.
 <br>
-This is My First Repo
+I am creating my repositroy.
