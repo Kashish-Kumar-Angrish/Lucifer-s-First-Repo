@@ -7,5 +7,5 @@ I am creating my repositroy.
 <br>
 I am a front end devloper.
 <br>
-Persuing bca from Ignou
+Persuing bca
 <br>
